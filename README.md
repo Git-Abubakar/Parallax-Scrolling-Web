@@ -1,1 +1,1 @@
-# Parallax-Scrolling-Web
+# Parallax-Scrolling-Website
